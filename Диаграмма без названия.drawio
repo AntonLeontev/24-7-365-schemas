@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T18:30:13.774Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="VRZTQUkC71lpNleHG2kW" version="21.1.4" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2023-04-05T19:21:57.827Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="4-gVLv3W2kJdQ23F1iFV" version="21.1.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Смена тарифа">
     <mxGraphModel dx="1035" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -18,7 +18,7 @@
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-1" target="a8_wa7-TmqVhNX_Gi0GO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-1">
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-1" target="a8_wa7-TmqVhNX_Gi0GO-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100.29411764705878" y="360" as="targetPoint" />
           </mxGeometry>
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-13" value="Изменена сумма?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="55" y="355" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-15" value="&lt;div&gt;Ошибка. Изменение &lt;br&gt;&lt;/div&gt;&lt;div&gt;не имеет смысла&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="120" width="160" height="40" as="geometry" />
@@ -66,9 +66,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-23" value="Изменен ID тарифа?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="520" width="90" height="90" as="geometry" />
+          <mxGeometry x="55" y="480" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-25" target="a8_wa7-TmqVhNX_Gi0GO-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-25" target="a8_wa7-TmqVhNX_Gi0GO-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-25" value="Изменен ID тарифа?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -81,16 +84,16 @@
           <mxGeometry x="100" y="440" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-30" value="&lt;div&gt;Нет&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145" y="540" width="30" height="20" as="geometry" />
+          <mxGeometry x="145" y="500" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-31" value="Изменений нет" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="547.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="180" y="507.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-33" value="&lt;div&gt;Да&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="610" width="30" height="20" as="geometry" />
+          <mxGeometry x="100" y="570" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-35" value="&lt;div&gt;Да&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="380" width="30" height="20" as="geometry" />
+          <mxGeometry x="530" y="370" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-36" value="&lt;div&gt;Нет&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="440" width="30" height="20" as="geometry" />
@@ -99,40 +102,109 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-37" value="Создать входящий платеж" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-39" target="a8_wa7-TmqVhNX_Gi0GO-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-39" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="620" width="20" height="20" as="geometry" />
+          <mxGeometry x="470" y="560" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-41" target="a8_wa7-TmqVhNX_Gi0GO-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-41" value="Удалить неоплаченные исходящие платежи" style="whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-43" target="a8_wa7-TmqVhNX_Gi0GO-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-43" value="Создать новые платежи на оставшийся срок" style="whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-45" value="Поставить статус ожидает конца переиода" style="whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-47" value="После оплаты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="615" width="70" height="30" as="geometry" />
+          <mxGeometry x="480" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-48" target="a8_wa7-TmqVhNX_Gi0GO-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-48" value="&lt;div&gt;Как выплачивается &lt;br&gt;&lt;/div&gt;&lt;div&gt;доходность у &lt;br&gt;&lt;/div&gt;&lt;div&gt;старого тарифа?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="695" width="180" height="105" as="geometry" />
+          <mxGeometry x="10" y="655" width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-50" target="a8_wa7-TmqVhNX_Gi0GO-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="707" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-50" value="&lt;div&gt;Ежемес&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="730" width="50" height="20" as="geometry" />
+          <mxGeometry x="190" y="690" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-51" value="В конце" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="800" width="60" height="20" as="geometry" />
+          <mxGeometry x="110" y="760" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-60" value="Пересчет доходностей за прошедшее время по новому тарифу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="790" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-61" value="Выплатить доходность в конце периода и рассчитать доходности на весь срок нового тарифа." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="657.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-65" target="a8_wa7-TmqVhNX_Gi0GO-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-65" target="a8_wa7-TmqVhNX_Gi0GO-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-65" value="&lt;div&gt;Как выплачивается &lt;br&gt;&lt;/div&gt;&lt;div&gt;доходность у &lt;br&gt;&lt;/div&gt;&lt;div&gt;старого тарифа?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="460" width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-67" value="&lt;div&gt;Ежемес&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-68" value="В конце" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="480" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-70" target="a8_wa7-TmqVhNX_Gi0GO-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-70" value="Создать входящий платеж" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-71" target="a8_wa7-TmqVhNX_Gi0GO-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-71" value="Создать входящий платеж" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-75" target="a8_wa7-TmqVhNX_Gi0GO-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-75" value="&lt;div&gt;Удалить неоплаченные исходящие платежи.&lt;/div&gt;&lt;div&gt;Оставить только за последний период&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="732.5" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-77" value="Создать новые платежи на полный срок нового тарифа" style="whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="842.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-79" value="После оплаты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-82" value="Пересчитать выплату по новой доходности. Прошедший срок идет в зачет нового тарифа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="732.5" width="120" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-88" value="После оплаты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-90" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="600" width="390" height="290" as="geometry">
+            <mxRectangle y="600" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-92" value="&lt;div&gt;Применяется сразу. Необратимое действие&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8_wa7-TmqVhNX_Gi0GO-90">
+          <mxGeometry x="165" y="10" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
