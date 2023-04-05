@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T16:02:05.316Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="ksMi9nRqXEevhG7Yy_Ze" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T18:30:13.774Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="VRZTQUkC71lpNleHG2kW" version="21.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1035" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -18,12 +18,9 @@
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-1" target="a8_wa7-TmqVhNX_Gi0GO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-1" target="a8_wa7-TmqVhNX_Gi0GO-13">
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="320" />
-              <mxPoint x="100" y="320" />
-            </Array>
+            <mxPoint x="100.29411764705878" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-1" value="&lt;div&gt;Последний период договора?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -32,13 +29,8 @@
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-4" target="a8_wa7-TmqVhNX_Gi0GO-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-4" target="a8_wa7-TmqVhNX_Gi0GO-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="280" />
-              <mxPoint x="100" y="280" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-4" target="a8_wa7-TmqVhNX_Gi0GO-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-4" value="Договор продлевается?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="90" width="100" height="100" as="geometry" />
@@ -58,19 +50,19 @@
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-13" value="Изменена сумма?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-15" value="Ошибка. Изменение не имеет смысла" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="100" width="130" height="80" as="geometry" />
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-15" value="&lt;div&gt;Ошибка. Изменение &lt;br&gt;&lt;/div&gt;&lt;div&gt;не имеет смысла&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-17" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-18" value="&lt;div&gt;Да&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="190" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-19" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="350" width="20" height="20" as="geometry" />
+          <mxGeometry x="290" y="190" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-23" target="a8_wa7-TmqVhNX_Gi0GO-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-23" target="a8_wa7-TmqVhNX_Gi0GO-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-23" value="Изменен ID тарифа?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -132,6 +124,15 @@
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-47" value="После оплаты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-48" value="&lt;div&gt;Как выплачивается &lt;br&gt;&lt;/div&gt;&lt;div&gt;доходность у &lt;br&gt;&lt;/div&gt;&lt;div&gt;старого тарифа?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="695" width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-50" value="&lt;div&gt;Ежемес&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="730" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-51" value="В конце" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="800" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
