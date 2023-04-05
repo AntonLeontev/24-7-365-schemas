@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T19:21:57.827Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="4-gVLv3W2kJdQ23F1iFV" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T19:35:13.752Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="UBCuj2SRWc-ngnE5pEZm" version="21.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Смена тарифа">
     <mxGraphModel dx="1035" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -98,17 +98,13 @@
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-36" value="&lt;div&gt;Нет&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="440" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-37" target="a8_wa7-TmqVhNX_Gi0GO-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-37" value="Создать входящий платеж" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-39" target="a8_wa7-TmqVhNX_Gi0GO-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-39" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="560" width="20" height="20" as="geometry" />
+        <mxCell id="a8_wa7-TmqVhNX_Gi0GO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-37" target="a8_wa7-TmqVhNX_Gi0GO-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="570" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a8_wa7-TmqVhNX_Gi0GO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a8_wa7-TmqVhNX_Gi0GO-41" target="a8_wa7-TmqVhNX_Gi0GO-43">
           <mxGeometry relative="1" as="geometry" />
