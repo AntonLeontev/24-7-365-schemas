@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T08:41:15.073Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="1-fRuR1vquRY03rar0at" version="21.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-06T09:09:21.710Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="EYcQGvHxcliMr5OiSdW8" version="21.1.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Смена тарифа">
     <mxGraphModel dx="880" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F0F0F0" math="0" shadow="1">
       <root>
@@ -246,20 +246,22 @@
         <mxCell id="uJCXNvJv9OZz2S9oAAqT-7" value="Генерация выплат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="302" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJCXNvJv9OZz2S9oAAqT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJCXNvJv9OZz2S9oAAqT-8" target="uJCXNvJv9OZz2S9oAAqT-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uJCXNvJv9OZz2S9oAAqT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJCXNvJv9OZz2S9oAAqT-8" target="BQnOdvtiQdHsWaHxJk8G-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32" y="336" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uJCXNvJv9OZz2S9oAAqT-8" value="Сменить статус договора на ожидает конца периода" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-28" y="252" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJCXNvJv9OZz2S9oAAqT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uJCXNvJv9OZz2S9oAAqT-9" target="uJCXNvJv9OZz2S9oAAqT-10">
+        <mxCell id="BQnOdvtiQdHsWaHxJk8G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQnOdvtiQdHsWaHxJk8G-1" target="BQnOdvtiQdHsWaHxJk8G-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJCXNvJv9OZz2S9oAAqT-9" value="Запись в историю" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="336" width="120" height="60" as="geometry" />
+        <mxCell id="BQnOdvtiQdHsWaHxJk8G-1" value="Запись в историю" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJCXNvJv9OZz2S9oAAqT-10" value="Удаление старых выплат и генерация новых" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="BQnOdvtiQdHsWaHxJk8G-2" value="Удаление старых выплат и генерация новых" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="428" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
